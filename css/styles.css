@@ -1,0 +1,25 @@
+h1{
+    color:yellow
+}
+
+html {
+    font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    background-color: #ededeb;
+    background-position:center;
+    margin-top: 0px;
+  }
+  
+  p{
+     color: tomato;
+     text-shadow: black;
+     box-shadow: black;
+  }
+  body {
+    margin: auto;
+    background-image: url(http://fing.uach.mx/img/footer.jpg);
+    background-position: bottom center;
+    background-repeat: no-repeat;
+    width: 950px; z-index:1;background-color:#fff;
+}
+<img src="http://fing.uach.mx/img/blason.png" style="width: 500px; height: 20px;">
